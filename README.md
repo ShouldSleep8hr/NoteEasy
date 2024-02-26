@@ -1,3 +1,4 @@
 # NoteEasy
-npm i\n
-npm start
+- npm i
+- npm start
+
