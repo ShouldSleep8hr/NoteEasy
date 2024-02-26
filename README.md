@@ -1,2 +1,3 @@
 # NoteEasy
-for edvisory
+npm i
+npm start
